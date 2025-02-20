@@ -1,7 +1,9 @@
 # PIZZA-SALES-DATA-ANALYSIS
 GOAL : This project focuses on analyzing pizza sales data using SQL queries. The project is organized into three main sections: Basic, Intermediate, and Advanced queries.
 TASKS :
+
 Basic:
+
 1.Retrieve the total number of orders placed.
 
 2.Calculate the total revenue generated from pizza sales.
@@ -12,7 +14,9 @@ Basic:
 
 5.List the top 5 most ordered pizza types along with their quantities.
 
+
 Intermediate:
+
 6.Join the necessary tables to find the total quantity of each pizza category ordered.
 
 7.Determine the distribution of orders by hour of the day.
@@ -24,11 +28,13 @@ Intermediate:
 10.Determine the top 3 most ordered pizza types based on revenue.
 
 Advanced:
+
 11.Calculate the percentage contribution of each pizza type to total revenue.
 
 12.Analyze the cumulative revenue generated over time.
 
 13.Determine the top 3 most ordered pizza types based on revenue for each pizza category.
+
 
 Result :
 Overall Results Description The analysis of pizza sales data reveals several key insights. The total number of orders placed provides a baseline for understanding customer activity. Revenue calculations highlight the financial performance, while identifying the highest-priced and most common pizzas helps to understand customer preferences. Advanced queries further dissect revenue contributions and ordering patterns, offering a comprehensive view of the pizza sales dynamics.
